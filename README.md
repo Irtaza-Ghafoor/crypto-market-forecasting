@@ -1,6 +1,6 @@
 # High-Frequency Crypto Market Trend Forecasting via LightGBM Regressor
 
-This repository delivers a production-grade financial engineering and time-series forecasting pipeline built to predict high-frequency asset price movements. The architecture leverages sequential matrix slicing, dynamic rolling-window feature extraction, and Microsoft's cutting-edge LightGBM boosting tree model to capture continuous valuation trends without future data leakage.
+This Repository delivers a production-grade financial engineering and time-series forecasting pipeline built to predict high-frequency asset price movements. The architecture leverages sequential matrix slicing, dynamic rolling-window feature extraction, and Microsoft's cutting-edge LightGBM boosting tree model to capture continuous valuation trends without future data leakage.
 
 ## 📌 Analytical Workflow & System Pipeline
 Predicting volatile financial indicators requires strict sequential modeling over continuous signal vectors. The system executes the following stages:
