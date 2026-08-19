@@ -3,7 +3,7 @@
 This Repository Delivers a production-grade financial engineering and time-series forecasting pipeline built to predict high-frequency asset price movements. The architecture leverages sequential matrix slicing, dynamic rolling-window feature extraction, and Microsoft's cutting-edge LightGBM boosting tree model to capture continuous valuation trends without future data leakage.
 
 ## 📌 Analytical Workflow & System Pipeline
-Predicting volatile financial indicators requires strict sequential modeling over continuous signal vectors. The system executes the following stages:
+Predicting Volatile financial indicators requires strict sequential modeling over continuous signal vectors. The system executes the following stages:
 
 1. **High-Frequency Stochastic Simulation**: Dynamically models multi-dimensional asset price actions using continuous wave transformations injected with realistic stochastic noise (volatility).
 2. **Rolling-Window Feature Engineering**: Computes statistical moving averages (Short-term 3h vs Long-term 12h) and extracts rolling standard deviations to capture localized price volatility vectors.
